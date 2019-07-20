@@ -1,6 +1,6 @@
-## Timer_App
+# Timer_App
 
-# Quick Start
+## Quick Start
 
 ``` bash
 # Install dependencies
