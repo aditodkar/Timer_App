@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Timer component snapshot 1`] = `
+<div>
+  <span
+    className="unit"
+  >
+    NaN
+    :
+  </span>
+  <span
+    className="unit"
+  >
+    NaN
+    .
+  </span>
+  <span
+    className="unit"
+  >
+    N
+  </span>
+</div>
+`;
